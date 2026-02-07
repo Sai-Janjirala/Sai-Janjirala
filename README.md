@@ -89,9 +89,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💻 GitHub: https://github.com/sai-janjirala
 - 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: Coming Soon
+- 💼 LinkedIn: https://www.linkedin.com/in/sai-janjirala-5704a6394/
 
 ---
 
