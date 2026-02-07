@@ -1,41 +1,42 @@
-
-<h1 align="center">Hi 👋, I'm Amrit Raj</h1>
+<h1 align="center">Hi 👋, I'm Sai Janjirala</h1>
 <h3 align="center">
-🎮 Game Developer (C++ & JavaScript) | 🌐 Frontend Developer
+🚀 Full Stack Developer | 🌐 Web Engineer | 🧠 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+Game+Developer;JavaScript+Game+Dev;Frontend+Web+Developer;Learning+Game+Engines;Always+Building+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Engineer;JavaScript+%7C+React+%7C+Node.js;Always+Learning%2C+Always+Building&center=true&width=700&height=50">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎮 Game Developer working with **C++ (SFML)** and **JavaScript (Canvas)**
-- 🌐 Frontend Developer using **HTML, CSS, JavaScript**
-- 🧩 Built **multiple games and interactive websites**
-- 🧮 Strong understanding of **game loops, collision, physics & state systems**
-- 📚 Currently **learning Unity & C#** (not production-ready yet)
-- 🚀 Goal: **Professional Game Developer**
+- 💻 Full Stack Developer focused on building **scalable, real-world web applications**
+- 🌐 Strong in **Frontend (HTML, CSS, JavaScript, React)**
+- ⚙️ Backend experience with **Node.js, Express & MongoDB**
+- 🧩 Comfortable with **REST APIs, authentication & database design**
+- 🧠 Believe in **clean code, strong fundamentals & problem-solving**
+- 🚀 Goal: **Industry-ready Software / Full Stack Engineer**
+
+> I don’t just build interfaces — I build systems that work end-to-end.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎮 Game Development
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🌐 Frontend Development
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### ⚙️ Tools
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,java" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -44,60 +45,54 @@
 
 | Project | Description | Tech |
 |------|------------|------|
-| 🧱 Brick Breaker | Full game with menus, states, collision & physics | C++ / SFML |
-| 🎾 Ping Pong Game | Classic Pong with gameplay logic | C++ |
-| 🎮 JavaScript Games | Browser-based games using canvas | HTML / CSS / JS |
-| 🌐 Frontend Websites | Responsive & interactive websites | HTML / CSS / JS |
-| 📡 Bluetooth Chat App | Offline peer-to-peer messaging | Java / Android |
-
-
----
-
-## 🎮 Game Dev Skills
-
-- Game Loops & Delta Time
-- Collision Detection & Resolution
-- Movement Math & Physics Basics
-- State Machines (Menu / Pause / Play)
-- Input Handling
+| 🌐 Full Stack Web App | Auth, CRUD, REST APIs & database | React / Node / MongoDB |
+| 🧾 Portfolio Website | Clean, responsive & professional | HTML / CSS / JS |
+| 📦 Backend API | Scalable REST API with authentication | Node.js / Express |
+| 🛒 Web App Clone | UI + logic focused project | React / JavaScript |
+| 🔧 JavaScript Mini Projects | Logic-driven components | JavaScript |
 
 ---
 
-## 🌐 Frontend Skills
+## 💡 Core Skills
 
-- Responsive Layouts
-- JavaScript Logic
+### 🧠 Full Stack
+- REST API Design
+- Authentication & Authorization
+- Database Modeling
+- MVC Architecture
+- Error Handling & Validation
+
+### 🎨 Frontend
+- Responsive Design
+- State Management
 - DOM Manipulation
-- UI Animations
-- Interactive Websites
+- UI/UX Logic
+- Performance Basics
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Contribution Activity
-![GitHub Contribution Snake](https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg)
-
-
+![GitHub Contribution Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📫 Connect With Me
-- 💻 GitHub: https://github.com/Amrit-raj50
-- 🎮 itch.io: https://amrit-raj50.itch.io
+- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 🌐 Portfolio: Coming Soon
+- 💼 LinkedIn: Coming Soon
 
 ---
 
-⭐ *I focus on fundamentals first — engines come later.*
+⭐ *Strong fundamentals. Clean code. Long-term growth mindset.*
