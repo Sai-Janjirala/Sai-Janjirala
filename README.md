@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+
 
 </div>
 
