@@ -7,7 +7,7 @@
 
 <!-- ── HEADER BANNER ── -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,100:0d1b2a&height=220&section=header&text=Sai&fontSize=80&fontColor=ffffff&fontAlignY=42&fontAlign=72&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20CS%20Student&descSize=18&descAlignY=64&descColor=c084fc&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,100:0d1b2a&height=220&section=header&text=Sai Janjirala&fontSize=80&fontColor=ffffff&fontAlignY=42&fontAlign=72&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20CS%20Student&descSize=18&descAlignY=64&descColor=c084fc&animation=fadeIn"
   width="100%"
   alt="header"
 />
