@@ -4,7 +4,7 @@
 <!--                       HERO SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Apps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20[Sai Janjirala]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Apps&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+
 
 </div>
 
