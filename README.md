@@ -70,7 +70,7 @@ const developer = {
     </td>
     <td align="center" width="200px">
       <h4>🗄️ &nbsp;Database</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=3" />
+      <img src="https://skillicons.dev/icons?i=mongodb&perline=3" />
       <br/>
       <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white&labelColor=1a1a2e"/>
     </td>
@@ -78,7 +78,7 @@ const developer = {
   <tr>
     <td align="center" width="200px">
       <h4>💻 &nbsp;Languages</h4>
-      <img src="https://skillicons.dev/icons?i=js,cpp&perline=3" />
+      <img src="https://skillicons.dev/icons?i=js,cpp,c&perline=3" />
     </td>
     <td align="center" width="200px">
       <h4>🔧 &nbsp;Dev Tools</h4>
@@ -99,7 +99,7 @@ const developer = {
 
 ### 🧩 &nbsp;All Technologies at a Glance
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,netlify,cpp&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,netlify,cpp,c&perline=9&theme=dark" />
 
 </div>
 
@@ -111,28 +111,9 @@ const developer = {
 <!--                   GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=6AD3F7&fire=FF6C37&currStreakLabel=6AD3F7" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0d1117&color=6AD3F7&line=0891b2&point=FF6C37&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
 
 ---
 
