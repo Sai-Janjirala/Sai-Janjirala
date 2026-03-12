@@ -28,9 +28,8 @@
 
 ```typescript
 const developer = {
-  name:       "[Your Name]",
+  name:       "Sai Janjirala",
   role:       "Full Stack Developer",
-  location:   "India 🇮🇳",
   focus:      ["Web Apps", "REST APIs", "Backend Systems"],
   currentlyLearning: ["Advanced Node.js", "System Design", "DevOps"],
   funFact:    "I debug with console.log and I'm not ashamed 😅",
