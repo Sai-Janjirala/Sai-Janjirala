@@ -39,20 +39,54 @@
 
 <br/>
 
+<!-- ── TERMINAL BLUEPRINT ── -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ●  ●  ●          sai@dev: ~/profile                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  sai@dev:~$ cat profile.json                                 ║
+║                                                              ║
+║  {                                                           ║
+║    "name"     : "Sai Janjirala",                             ║
+║    "role"     : "Full Stack Developer",                      ║
+║    "stack"    : ["MongoDB","Express","React","Node.js"],      ║
+║    "building" : "Scalable web apps w/ clean architecture",   ║
+║    "learning" : ["System Design","TypeScript","DevOps"],      ║
+║    "openTo"   : "SWE Internships  🎯",                       ║
+║    "location" : "Surat, India  📍"                           ║
+║  }                                                           ║
+║                                                              ║
+║  sai@dev:~$ ./skills --list                                  ║
+║                                                              ║
+║  ✔ React.js   ✔ Node.js    ✔ MongoDB    ✔ Express.js         ║
+║  ✔ REST APIs  ✔ JWT Auth   ✔ Tailwind   ✔ Git/GitHub         ║
+║  ⚡ TypeScript [learning]                                     ║
+║                                                              ║
+║  sai@dev:~$ █                                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="52%" valign="top">
 
 ### 🪪 &nbsp;Who Am I?
 
-- 🎓 &nbsp;**B.Tech CS** @ Swaminarayan University, Surat *(Batch '29)*
+- 🎓 &nbsp;**B.Tech CS** @ Swaminarayan University *(Batch '29)*
 - 💼 &nbsp;**Full Stack Developer** — MERN Stack focused
-- 🔐 &nbsp;Built **FixIt** — hostel maintenance tracker w/ JWT + RBAC
-- ⚡ &nbsp;Crafted **Nike Store** filter UI — React + Tailwind CSS
-- 🏆 &nbsp;Hackathons — **Hack the Spring** (GEC) & **Adani × Odoo**
-- 🎯 &nbsp;Actively seeking **SWE Internships** to ship real-world code
+- 🔐 &nbsp;Built **FixIt** — hostel tracker w/ JWT + RBAC
+- ⚡ &nbsp;Crafted **Nike Store** filter UI — React + Tailwind
+- 🏆 &nbsp;Hackathons — **Hack the Spring** & **Adani × Odoo**
+- 🎯 &nbsp;Actively seeking **SWE Internships**
 - 📍 &nbsp;Based in **Surat, Gujarat, India**
-- 😅 &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed
+- 😅 &nbsp;I debug with `console.log` and I'm not ashamed
 
 </td>
 <td width="48%" valign="top">
@@ -62,7 +96,7 @@ export const profile = {
   name     : "Sai Janjirala",
   title    : "Full Stack Developer",
   stack    : "MERN · TypeScript · REST APIs",
-  building : "Scalable web apps with clean architecture",
+  building : "Scalable web apps w/ clean arch",
   learning : "System Design · TypeScript · DevOps",
   openTo   : "Software Engineering Internships 🎯",
 } satisfies Record<string, string>;
