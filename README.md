@@ -58,22 +58,14 @@
 <td width="48%" valign="top">
 
 ```typescript
-const sai: Developer = {
-  name      : "Sai Janjirala",
-  role      : "Full Stack Developer",
-  stack     : ["MongoDB","Express","React","Node.js"],
-  education : "B.Tech CS @ SU '29",
-
-  currentlyLearning : [
-    "System Design",
-    "TypeScript",
-    "DevOps basics",
-  ],
-
-  building  : "Production-grade MERN apps",
-  openTo    : "SWE Internships 🎯",
-  askMeAbout: ["MERN", "REST APIs", "Auth"],
-};
+export const profile = {
+  name     : "Sai Janjirala",
+  title    : "Full Stack Developer",
+  stack    : "MERN · TypeScript · REST APIs",
+  building : "Scalable web apps with clean architecture",
+  learning : "System Design · TypeScript · DevOps",
+  openTo   : "Software Engineering Internships 🎯",
+} satisfies Record<string, string>;
 ```
 
 </td>
