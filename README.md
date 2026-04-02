@@ -57,16 +57,18 @@
 </td>
 <td width="48%" valign="top">
 
-const sai = {
-  name       : "Sai Janjirala",
-  role       : "Full Stack Developer (MERN)",
-  education  : "B.Tech Computer Science '29 · Swaminarayan University",
-  experience : ["FixIt — MERN + JWT + RBAC", "Nike Store UI — React + Tailwind"],
-  techStack  : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  learning   : ["System Design", "TypeScript", "DevOps"],
-  goal       : "Land a SWE internship & ship products that matter 🚀",
-  contact    : "saijanjirala5411@gmail.com",
-} as const;
+```typescript
+const sai: Developer = {
+  name      : "Sai Janjirala",
+  role      : "Full Stack Developer",
+  stack     : ["MongoDB","Express","React","Node.js"],
+  education : "B.Tech CS @ SU '29",
+
+  currentlyLearning : [
+    "System Design",
+    "TypeScript",
+    "DevOps basics",
+  ],
 
   building  : "Production-grade MERN apps",
   openTo    : "SWE Internships 🎯",
