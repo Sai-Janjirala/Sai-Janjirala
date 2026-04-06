@@ -89,10 +89,10 @@
 - 😅 &nbsp;I debug with `console.log` and I'm not ashamed
 
 </td>
-<td width="48%" valign="top">
 
 
-</td>
+
+
 </tr>
 </table>
 
