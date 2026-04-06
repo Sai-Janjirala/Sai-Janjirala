@@ -91,16 +91,6 @@
 </td>
 <td width="48%" valign="top">
 
-```typescript
-export const profile = {
-  name     : "Sai Janjirala",
-  title    : "Full Stack Developer",
-  stack    : "MERN · TypeScript · REST APIs",
-  building : "Scalable web apps w/ clean arch",
-  learning : "System Design · TypeScript · DevOps",
-  openTo   : "Software Engineering Internships 🎯",
-} satisfies Record<string, string>;
-```
 
 </td>
 </tr>
