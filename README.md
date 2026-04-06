@@ -251,7 +251,7 @@
 
 <br/>
 
-> ⚙️ &nbsp;**Snake Setup:** Go to your profile repo → Actions → enable the `Generate Snake` workflow → it auto-runs daily and outputs the SVG to the `output` branch.
+
 
 <br/>
 
