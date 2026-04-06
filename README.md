@@ -271,37 +271,7 @@ export const profile = {
 <!--                   CURRENT FOCUS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=9999&color=6AD3F7&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%8E%AF+What+I'm+Up+To" alt="Current Focus"/>
-</div>
 
-<br/>
-
-```yaml
-currently:
-  📚 learning:
-    - Advanced Node.js & Express patterns
-    - System Design fundamentals
-    - TypeScript for type-safe full stack apps
-
-  🔨 building:
-    - Full stack MERN projects with auth & real APIs
-    - Scalable REST APIs with clean architecture
-
-  📈 improving:
-    - Backend architecture & database design
-    - Code quality, testing, and documentation
-    - Interview & DSA prep for internships
-
-  🎯 goals:
-    - Land a great software engineering internship
-    - Build projects that solve real problems
-    - Contribute to open source
-```
-
-<br/>
-
----
 
 <div align="center">
 
