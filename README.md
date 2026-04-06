@@ -79,7 +79,6 @@
 
 ### 🪪 &nbsp;Who Am I?
 
-- 🎓 &nbsp;**B.Tech CS** @ Swaminarayan University *(Batch '29)*
 - 💼 &nbsp;**Full Stack Developer** — MERN Stack focused
 - 🔐 &nbsp;Built **FixIt** — hostel tracker w/ JWT + RBAC
 - ⚡ &nbsp;Crafted **Nike Store** filter UI — React + Tailwind
@@ -100,8 +99,6 @@
 
 <div align="center">
 
-![Student](https://img.shields.io/badge/🎓_B.Tech_CS-Swaminarayan_University-0d1117?style=flat-square&labelColor=0d1117&color=6AD3F7)
-&nbsp;
 ![Stack](https://img.shields.io/badge/⚡_MERN-Full_Stack-0d1117?style=flat-square&labelColor=0d1117&color=6AD3F7)
 &nbsp;
 ![Internship](https://img.shields.io/badge/🤝_Open_to-SWE_Internships-0d1117?style=flat-square&labelColor=0d1117&color=00d084)
