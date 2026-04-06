@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%E2%80%94+MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Scalable+APIs+%26+Clean+UIs+%F0%9F%94%A7;B.Tech+CS+%40+Swaminarayan+University+%7C+Batch+%2729;Always+Learning.+Always+Shipping.+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%E2%80%94+MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Scalable+APIs+%26+Clean+UIs+%F0%9F%94%A7;Always+Learning.+Always+Shipping.+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <br/>
 
